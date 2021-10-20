@@ -59,3 +59,5 @@ Let's do it one more together:
 
    -query: {"acquisition.acquired_month":1,"acquisition.acquired_year":2014}
    -projection: {acquisition: 1, name: 1, _id: 0}
+   
+//That it
